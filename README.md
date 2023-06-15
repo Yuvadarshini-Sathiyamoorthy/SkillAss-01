@@ -23,6 +23,13 @@ Step 6: Thread Creation processing is done in MainActivity.java
 Step 7: Save and run the application.
 
 ## Program:
+```
+/*
+SKILL ASSESSMENT-Android application to create a thread using Android Studio
+Developed by: Yuvadarshini S
+RegisterNumber: 212221230126 
+*/
+```
 ## MainActivity.java:
 ```
 package com.example.thread;
